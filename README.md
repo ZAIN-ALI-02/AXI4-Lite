@@ -1,6 +1,5 @@
 # AXI4-Lite
 Advanced eXtensible Interface 4 (AXI4) is a family of buses defined as part of the fourth generation of the ARM Advanced Microcontroler Bus Architectrue (AMBA) standard.
-![App Screenshot](https://embeddedwala.com/uploads/images/202303/img_temp_640cdacadfec43-51459922-42407762.png)
 
 
 ## AXI4-Lite Interface Signals
@@ -58,50 +57,4 @@ This project is open-source and available under the MIT License. You are free to
 ## Documentation
 
 [Documentation](http://www.gstitt.ece.ufl.edu/courses/fall15/eel4720_5721/labs/refs/AXI4_specification.pdf)
-
-### Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/ZAIN-ALI-02/SPI
-```
-
-Go to the project directory
-
-```bash
-  cd SPI
-```
-
-Install dependencies
-
-```bash
-  install vscode
-  install GTKWave
-  install icarus verilog
-```
-
-
-###  Running Tests
-
-To run tests, run the following command
-
-```bash
-  iverilog -o SPI_tb.vvp SPI_tb.v
-  vvp SPI_tb.vvp
-  GTKWave SPI_tb.vcd
-```
-
-
-
-## Contributing
-
-Contributions are always welcome, suggestions, and issue reports. Feel free to create pull requests or open issues to help improve this SPI implementation. Together, we can make it even better!
-
-## License
-This project is open-source and available under the MIT License. You are free to use, modify, and distribute this code as long as you comply with the terms of the license.
-
-## Documentation
-
-[Documentation](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
 
