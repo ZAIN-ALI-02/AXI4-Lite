@@ -1,0 +1,128 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat Dec  9 22:45:59 2023
+[*]
+[dumpfile] "/home/zain/Desktop/Verilog_Practice/AXI4_Lite/round_robin_arbiter_tb.vcd"
+[dumpfile_mtime] "Sat Dec  9 22:38:35 2023"
+[dumpfile_size] 110861
+[savefile] "/home/zain/Desktop/Verilog_Practice/AXI4_Lite/hwavefoam.gtkw"
+[timestart] 0
+[size] 1308 704
+[pos] -1 -1
+*-22.550346 2820000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] round_robin_arbiter_tb.
+[sst_width] 252
+[signals_width] 247
+[sst_expanded] 1
+[sst_vpaned_height] 180
+@28
+round_robin_arbiter_tb.round_robin_arbiter.req_sigs[1:0]
+round_robin_arbiter_tb.round_robin_arbiter.grant_sigs[1:0]
+@22
+round_robin_arbiter_tb.round_robin_arbiter.address_of_register[7:0]
+@28
+[color] 2
+round_robin_arbiter_tb.dut_Handshake_master_1.rst
+[color] 2
+round_robin_arbiter_tb.dut_Handshake_master_1.clk
+@22
+[color] 2
+round_robin_arbiter_tb.dut_Handshake_master_1.data_in[7:0]
+[color] 2
+round_robin_arbiter_tb.dut_Handshake_master_1.data[7:0]
+@28
+[color] 2
+round_robin_arbiter_tb.dut_Handshake_master_1.valid
+[color] 2
+round_robin_arbiter_tb.dut_Handshake_master_1.ready_inp
+@22
+[color] 6
+round_robin_arbiter_tb.dut_Handshake_master_2.data[7:0]
+[color] 6
+round_robin_arbiter_tb.dut_Handshake_master_2.data_in[7:0]
+@28
+[color] 6
+round_robin_arbiter_tb.dut_Handshake_master_2.ready_inp
+[color] 6
+round_robin_arbiter_tb.dut_Handshake_master_2.valid
+@c00023
+[color] 7
+round_robin_arbiter_tb.dut_Handshake_slave_1.data_in[7:0]
+@28
+[color] 7
+(0)round_robin_arbiter_tb.dut_Handshake_slave_1.data_in[7:0]
+[color] 7
+(1)round_robin_arbiter_tb.dut_Handshake_slave_1.data_in[7:0]
+[color] 7
+(2)round_robin_arbiter_tb.dut_Handshake_slave_1.data_in[7:0]
+[color] 7
+(3)round_robin_arbiter_tb.dut_Handshake_slave_1.data_in[7:0]
+[color] 7
+(4)round_robin_arbiter_tb.dut_Handshake_slave_1.data_in[7:0]
+[color] 7
+(5)round_robin_arbiter_tb.dut_Handshake_slave_1.data_in[7:0]
+[color] 7
+(6)round_robin_arbiter_tb.dut_Handshake_slave_1.data_in[7:0]
+[color] 7
+(7)round_robin_arbiter_tb.dut_Handshake_slave_1.data_in[7:0]
+@1401201
+-group_end
+@22
+[color] 7
+round_robin_arbiter_tb.dut_Handshake_slave_1.data[7:0]
+@28
+[color] 7
+round_robin_arbiter_tb.dut_Handshake_slave_1.ready_in
+[color] 7
+round_robin_arbiter_tb.dut_Handshake_slave_1.ready_out
+[color] 7
+round_robin_arbiter_tb.dut_Handshake_slave_1.reset
+[color] 7
+round_robin_arbiter_tb.dut_Handshake_slave_1.rst
+[color] 7
+round_robin_arbiter_tb.dut_Handshake_slave_1.valid
+@22
+[color] 3
+round_robin_arbiter_tb.dut_Handshake_slave_2.data[7:0]
+[color] 3
+round_robin_arbiter_tb.dut_Handshake_slave_2.data_in[7:0]
+@28
+[color] 3
+round_robin_arbiter_tb.dut_Handshake_slave_2.ready_in
+[color] 3
+round_robin_arbiter_tb.dut_Handshake_slave_2.ready_out
+[color] 3
+round_robin_arbiter_tb.dut_Handshake_slave_2.reset
+[color] 3
+round_robin_arbiter_tb.dut_Handshake_slave_2.rst
+[color] 3
+round_robin_arbiter_tb.dut_Handshake_slave_2.valid
+round_robin_arbiter_tb.round_robin_arbiter.clk
+round_robin_arbiter_tb.round_robin_arbiter.curr_state[1:0]
+round_robin_arbiter_tb.round_robin_arbiter.grant_sigs[1:0]
+@22
+round_robin_arbiter_tb.round_robin_arbiter.in_data_m1[7:0]
+round_robin_arbiter_tb.round_robin_arbiter.in_data_m2[7:0]
+@28
+round_robin_arbiter_tb.round_robin_arbiter.in_ready_s1
+round_robin_arbiter_tb.round_robin_arbiter.in_ready_s2
+round_robin_arbiter_tb.round_robin_arbiter.in_valid_m1
+round_robin_arbiter_tb.round_robin_arbiter.in_valid_m2
+round_robin_arbiter_tb.round_robin_arbiter.next_state[1:0]
+@22
+round_robin_arbiter_tb.round_robin_arbiter.out_data_s1[7:0]
+round_robin_arbiter_tb.round_robin_arbiter.out_data_s2[7:0]
+@28
+round_robin_arbiter_tb.round_robin_arbiter.out_ready_m1
+round_robin_arbiter_tb.round_robin_arbiter.out_ready_m2
+round_robin_arbiter_tb.round_robin_arbiter.out_valid_s1
+round_robin_arbiter_tb.round_robin_arbiter.out_valid_s2
+round_robin_arbiter_tb.round_robin_arbiter.req_sigs[1:0]
+round_robin_arbiter_tb.round_robin_arbiter.rst
+@22
+round_robin_arbiter_tb.round_robin_arbiter.slave_address_2[7:0]
+@28
+round_robin_arbiter_tb.round_robin_arbiter.grant_sigs[1:0]
+round_robin_arbiter_tb.round_robin_arbiter.grant_sigs[1:0]
+[pattern_trace] 1
+[pattern_trace] 0

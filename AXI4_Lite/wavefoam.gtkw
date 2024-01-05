@@ -1,0 +1,158 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue Dec  5 11:33:06 2023
+[*]
+[dumpfile] "/home/zain/Desktop/Verilog_Practice/AXI4_Lite/AXI4_Lite_testbench.vcd"
+[dumpfile_mtime] "Tue Dec  5 10:53:12 2023"
+[dumpfile_size] 18551
+[savefile] "/home/zain/Desktop/Verilog_Practice/AXI4_Lite/wavefoam.gtkw"
+[timestart] 0
+[size] 1308 704
+[pos] -1 -1
+*-19.630695 415000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] AXI4_Lite_tb.
+[sst_width] 230
+[signals_width] 352
+[sst_expanded] 1
+[sst_vpaned_height] 180
+@28
+AXI4_Lite_tb.dut_AXI4_Lite_master.clk
+AXI4_Lite_tb.dut_AXI4_Lite_master.reset
+@22
+[color] 2
+AXI4_Lite_tb.dut_AXI4_Lite_master.awaddr_master_input[31:0]
+[color] 2
+AXI4_Lite_tb.dut_AXI4_Lite_master.awaddr_master_output[31:0]
+@28
+[color] 2
+AXI4_Lite_tb.dut_AXI4_Lite_master.awprot_master_input[2:0]
+[color] 2
+AXI4_Lite_tb.dut_AXI4_Lite_master.awprot_master_output[2:0]
+[color] 2
+AXI4_Lite_tb.dut_AXI4_Lite_master.awvalid_master_output
+[color] 2
+AXI4_Lite_tb.dut_AXI4_Lite_master.awready_master_input
+@c00022
+[color] 7
+AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+@28
+(0)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(1)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(2)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(3)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(4)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(5)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(6)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(7)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(8)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(9)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(10)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(11)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(12)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(13)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(14)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(15)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(16)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(17)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(18)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(19)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(20)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(21)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(22)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(23)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(24)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(25)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(26)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(27)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(28)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(29)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(30)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+(31)AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_slave_input[31:0]
+@1401200
+-group_end
+@22
+[color] 7
+AXI4_Lite_tb.dut_AXI4_Lite_slave.awaddr_save_reg[31:0]
+@28
+[color] 7
+AXI4_Lite_tb.dut_AXI4_Lite_slave.awprot_slave_input[2:0]
+[color] 7
+AXI4_Lite_tb.dut_AXI4_Lite_slave.awprot_save_reg[2:0]
+AXI4_Lite_tb.dut_AXI4_Lite_master.clk
+@22
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_master.wdata_master_input[31:0]
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_master.wdata_master_output[31:0]
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_master.wstrb_master_input[3:0]
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_master.wstrb_master_output[3:0]
+@28
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_master.wvalid_master_output
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_master.wready_master_input
+@22
+[color] 7
+AXI4_Lite_tb.dut_AXI4_Lite_slave.wstrb_slave_input[3:0]
+[color] 7
+AXI4_Lite_tb.dut_AXI4_Lite_slave.wstrb_save_reg[3:0]
+[color] 7
+AXI4_Lite_tb.dut_AXI4_Lite_slave.wdata_slave_input[31:0]
+[color] 7
+AXI4_Lite_tb.dut_AXI4_Lite_slave.wdata_save_reg[31:0]
+@28
+AXI4_Lite_tb.dut_AXI4_Lite_slave.bresp_slave_input[1:0]
+AXI4_Lite_tb.dut_AXI4_Lite_slave.bresp_slave_output[1:0]
+AXI4_Lite_tb.dut_AXI4_Lite_slave.bvalid_slave_output
+AXI4_Lite_tb.dut_AXI4_Lite_master.bready_master_output
+AXI4_Lite_tb.dut_AXI4_Lite_master.bresp_master_save_register[1:0]
+@22
+[color] 3
+AXI4_Lite_tb.dut_AXI4_Lite_master.araddr_master_input[31:0]
+[color] 3
+AXI4_Lite_tb.dut_AXI4_Lite_master.araddr_master_output[31:0]
+@28
+[color] 3
+AXI4_Lite_tb.dut_AXI4_Lite_master.arprot_master_input[2:0]
+[color] 3
+AXI4_Lite_tb.dut_AXI4_Lite_master.arprot_master_output[2:0]
+[color] 3
+AXI4_Lite_tb.dut_AXI4_Lite_master.arvalid_master_output
+[color] 3
+AXI4_Lite_tb.dut_AXI4_Lite_master.arready_master_input
+@22
+[color] 1
+AXI4_Lite_tb.dut_AXI4_Lite_slave.araddr_slave_input[31:0]
+[color] 1
+AXI4_Lite_tb.dut_AXI4_Lite_slave.araddr_save_reg[31:0]
+@28
+[color] 1
+AXI4_Lite_tb.dut_AXI4_Lite_slave.arprot_slave_input[2:0]
+[color] 1
+AXI4_Lite_tb.dut_AXI4_Lite_slave.arprot_save_reg[2:0]
+@22
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_slave.rdata_slave_input[31:0]
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_slave.rdata_slave_output[31:0]
+@28
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_slave.rresp_slave_input[1:0]
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_slave.rresp_slave_output[1:0]
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_slave.rvalid_slave_output
+[color] 5
+AXI4_Lite_tb.dut_AXI4_Lite_slave.rready_slave_input
+@22
+AXI4_Lite_tb.dut_AXI4_Lite_master.rdata_master_input[31:0]
+AXI4_Lite_tb.dut_AXI4_Lite_master.rdata_master_save_register[31:0]
+@28
+AXI4_Lite_tb.dut_AXI4_Lite_master.rresp_master_input[1:0]
+AXI4_Lite_tb.dut_AXI4_Lite_master.rresp_master_save_register[1:0]
+@29
+AXI4_Lite_tb.dut_AXI4_Lite_master.rst
+[pattern_trace] 1
+[pattern_trace] 0
